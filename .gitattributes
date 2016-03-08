@@ -1,0 +1,10 @@
+# source code
+*.js text
+
+# git config.gitattributes text.gitignore text.gitconfig text# code analysis config.jshintrc text
+.eslintrc text
+
+# misc config.editorconfig text
+# build config*.npmignore text
+# Documentation
+*.md textLICENSE textAUTHORS text

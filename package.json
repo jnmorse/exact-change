@@ -1,0 +1,23 @@
+{
+  "name": "exact-change",
+  "version": "0.0.1",
+  "description": "Free Code Camp Challenge Exact Change",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnmorse/exact-change.git"
+  },
+  "keywords": [
+    "javascript",
+    "freecodecamp"
+  ],
+  "author": "Joseph Morse <tamed.lionheart@gmail.com> (https://github.com/jnmorse)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnmorse/exact-change/issues"
+  },
+  "homepage": "https://github.com/jnmorse/exact-change#readme"
+}
