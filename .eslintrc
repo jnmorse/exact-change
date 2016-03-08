@@ -7,23 +7,15 @@
   },
   "parser": "babel-eslint",
   "globals": {
-    "$": true,
-    "ga": true,
-    "jQuery": true,
-    "router": true,
-    "window": true,
-    "Promise": true
   },
   "parserOptions": {
     "ecmaFeatures": {
-      "experimentalObjectRestSpread": true,
-      "jsx": true
+      "experimentalObjectRestSpread": true
     },
     "ecmaVersion": 6,
     "sourceType": "module"
   },
   "plugins": [
-    "react"
   ],
   "rules": {
     "block-scoped-var": 0,
@@ -197,27 +189,6 @@
       "avoid-escape"
     ],
     "radix": 2,
-    "react/display-name": 1,
-    "react/jsx-boolean-value": [
-      1,
-      "always"
-    ],
-    "react/jsx-no-undef": 1,
-    "react/jsx-sort-props": [
-      1,
-      {
-        "ignoreCase": true
-      }
-    ],
-    "react/jsx-uses-react": 1,
-    "react/jsx-uses-vars": 1,
-    "react/no-did-mount-set-state": 2,
-    "react/no-did-update-set-state": 2,
-    "react/no-multi-comp": 2,
-    "react/prop-types": 2,
-    "react/react-in-jsx-scope": 1,
-    "react/self-closing-comp": 1,
-    "react/wrap-multilines": 1,
     "semi": [
       2,
       "always"
